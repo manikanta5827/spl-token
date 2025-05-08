@@ -2,14 +2,14 @@
   "name": "Leo Coin",
   "symbol": "LEO",
   "description": "A fun community token for learning",
-  "image": "https://github.com/manikanta5827/spl-token/blob/main/leo.jpg",
+  "image": "https://manikanta5827.github.io/spl-token/leo.jpg",
   "external_url": "https://leotoken.fun",
   "attributes": [],
   "properties": {
     "category": "image",
     "files": [
       {
-        "uri": "https://github.com/manikanta5827/spl-token/blob/main/leo.jpg",
+        "uri": "https://manikanta5827.github.io/spl-token/leo.jpg",
         "type": "image/jpg"
       }
     ]
