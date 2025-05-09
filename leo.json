@@ -1,17 +1,6 @@
 {
-  "name": "Leo Coin",
-  "symbol": "LEO",
+  "name": "Rolex Coin",
+  "symbol": "ROLEX",
   "description": "A fun community token for learning",
-  "image": "https://manikanta5827.github.io/spl-token/leo.jpg",
-  "external_url": "https://leotoken.fun",
-  "attributes": [],
-  "properties": {
-    "category": "image",
-    "files": [
-      {
-        "uri": "https://manikanta5827.github.io/spl-token/leo.jpg",
-        "type": "image/jpg"
-      }
-    ]
-  }
+  "image": "https://manikanta5827.github.io/spl-token/leo.jpg"
 }
